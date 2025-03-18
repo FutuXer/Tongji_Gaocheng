@@ -1,0 +1,12 @@
+﻿  cmd_console_tools.cpp
+D:\臭同济的\高程\23242-900102-W1302. 综合题 - 第02题 - 彩球游戏（MagicBall）\23242-900102-W1302. 综合题 - 第02题 - 彩球游戏（MagicBall）\cmd_console_tools.cpp(211,24): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  test-cct.cpp
+  magic_ball_base.cpp
+  magic_ball_graph.cpp
+  magic_ball_main.cpp
+D:\臭同济的\高程\90-b2\90-b2\magic_ball_main.cpp(20,3): warning C4551: 缺少参数列表的函数调用
+  magic_ball_menu.cpp
+  magic_ball_tools.cpp
+  正在生成代码...
+magic_ball_main.obj : error LNK2005: main 已经在 test-cct.obj 中定义
+D:\臭同济的\高程\90-b2\x64\Debug\90-b2.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
